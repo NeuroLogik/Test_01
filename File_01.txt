@@ -1,1 +1,3 @@
 First test file added to the repository.
+
+Adding a second line of text to the same first test file.
